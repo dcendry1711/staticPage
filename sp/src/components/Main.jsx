@@ -9,7 +9,6 @@ export function Main(){
                 <li>Is maintained by Meta</li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
-            <img className="react-img-background" src="./react-bg-img.png" alt="react logo in background" />
         </main>
     )
 }
