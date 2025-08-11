@@ -28,6 +28,9 @@ header {
     background: #21222A;
     color: #00D8FF;
     padding: 1em 1.2em;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: .3em .3em .5em  #FFF;
 }
 
 .header-react-logo {
@@ -47,6 +50,9 @@ main {
     background-image: url('./react-bg-img.png');
     background-repeat: no-repeat;
     background-position: 99.9% 50%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: .3em .3em .5em  #FFF;
 }
 
 .main-title {
